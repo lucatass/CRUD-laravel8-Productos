@@ -1,2 +1,2 @@
 # CRUD-laravel8-Productos
-Proyecto para probar Laravel 8
+Simple CRUD hecho en php para probar Laravel 8
